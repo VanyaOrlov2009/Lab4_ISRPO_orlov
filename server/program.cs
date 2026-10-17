@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Добро пожаловать!");
+Console.WriteLine("ФИО: Орлов Иван Леонидович");
+
